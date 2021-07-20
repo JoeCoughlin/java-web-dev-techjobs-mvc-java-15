@@ -2,6 +2,7 @@ package org.launchcode.techjobsmvc.models;
 
 import java.util.Objects;
 
+
 public class Job {
 
     private int id;
